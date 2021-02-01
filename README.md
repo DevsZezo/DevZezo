@@ -1,4 +1,7 @@
-### Hi there 👋,<h1>I'm Zezo</h1>
+## Hi there 👋,<h1>I'm Zezo</h1>
+
+- [Website](https://iqiq.ml/)
+- [Discord](https://iqiq.ml/discord)
 
 
 ## Languages and Tools:
